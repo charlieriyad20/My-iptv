@@ -1,273 +1,301 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Andflix.in@HD" tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDFLIX/images/LOGO_HD/LOGO_HD_image.png" group-title="Indian" tvg-server="Server 1",& FLIX HD
-http://103.161.153.165:8000/play/a01z/index.m3u8
 #EXTINF:-1 tvg-id="Andpictures.in@HD" tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022J67R.png?lock=720x540" group-title="Movie" tvg-server="Server 1",& Pictures
-http://103.229.254.25:7001/play/a033/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/231.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/A_Sports_Logo.png/250px-A_Sports_Logo.png" group-title="Sports" tvg-server="Server 1",A sports
-http://103.161.153.165:8000/play/asphd/index.m3u8
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/adventureearth_white.png" group-title="English" tvg-server="Server 1",Adventure Earth
+https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/playlist.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/4yLG8mKp/1000112023.png" group-title="International" tvg-server="Server 1",AlJazeera
-http://103.161.153.165:8000/play/a04q/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://assets-prod.services.toffeelive.com//wCM3l5sBEef-9-uVXFvD/posters/d80f7aee-5bd7-4edc-97eb-ead0e3ebbe09.png" group-title="Bangla" tvg-server="Server 1",Ananda TV
-https://sm-monirul.top/Toffee/live.php?id=anandatv&e=.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/s157574_ld_h15_aa.png" group-title="Documentary" tvg-server="Server 1",Animal Planet HD
-http://103.161.153.165:8000/play/a04g/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://appstv.bdixbd.net/images/93457_Ary-digital.png" group-title="Pakistan" tvg-server="Server 1",ARYDigitalAsia HD
-http://103.229.254.25:7001/play/a07w/index.m3u8
+http://sm-monirul.top/AyNa/play.php?id=a108c4e9-ccfa-42f2-8f8f-169ded28cca2&e=.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet_Hindi.png" group-title="Documentary" tvg-server="Server 1",Animal Planet HD
+https://datahub11.com:443/live/Jen12345/Jen54321/98873.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkSWa9qaHAXPQWKCXiaAayUjadNqBzxZ48oQ&s" group-title="Kids" tvg-server="Server 1",ANIMAX
+http://premium2.ottpro2.org:80/live/franck3/3926751/221474.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f3/ARY_Digital_Logo_2.png" group-title="Pakistan" tvg-server="Server 1",ARYDigitalAsia HD
+https://datahub11.com:443/live/Jen12345/Jen54321/124.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/asian-tv-bd.png" group-title="Bangla" tvg-server="Server 1",Asian TV
-http://103.229.254.25:7001/play/a063/index.m3u8
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-bangla-hd-bd.png" group-title="Bangla" tvg-server="Server 1",ATN Bangla
-http://103.229.254.25:7001/play/a06b/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/431.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/atn-news-hd-bd.png" group-title="Bangla" tvg-server="Server 1",ATN News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/e42ecfa90e3d6b15bdb7fea5ef673864" group-title="Bangla" tvg-server="Server 1",Bangla TV
-http://103.161.153.165:8000/play/a02x/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://assets-prod.services.toffeelive.com//JiK-_poBEef-9-uVZv6L/posters/757a328e-70d6-45de-b093-0a843c69ade7.png" group-title="Bangla" tvg-server="Server 1",Bangla TV
+http://116.204.149.16/banglatv/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/1200px-Banglavision.svg.png" group-title="Bangla" tvg-server="Server 1",BanglaVision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/s143800_ld_h15_aa.png?lock=720x540" group-title="Documentary" tvg-server="Server 1",BBC EARTH
-http://103.180.212.191:3500/live/821.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://logoipro2.com/logo/37581.png" group-title="Documentary" tvg-server="Server 1",BBC Earth
+https://d3u3pfhhvuad9k.cloudfront.net/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiirAcbz1-0_b0neRA0Jsm3RdR7s2NVjhRgQ&s" group-title="English" tvg-server="Server 1",BBC World
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",Bein Sport 1
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/652310.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://logo-iptvpro.com/LOGO/FRANCE%20OTT/beinsports1_fr.png" group-title="Sports" tvg-server="Server 1",Bein Sport 1
+http://premium2.ottpro2.org:80/live/franck3/3926751/14170.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://static.epg.best/qa/beINSports1.qa.png" group-title="Sports" tvg-server="Server 1",BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/f23d6f82c1a16458fe0e4c6f11b8fd87" group-title="Bangla" tvg-server="Server 1",Bijoy TV
-http://103.161.153.165:8000/play/a026/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://tplay.live/originals/bengali-beats/bengali-beats.png" group-title="Bangla" tvg-server="Server 1",Bengla Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://assets-prod.services.toffeelive.com//bns4l5sBcqxnFHJBVZ32/posters/feaf9f3d-cc3b-4a3d-81a3-2cb703e561eb.png" group-title="Bangla" tvg-server="Server 1",Bijoy TV
+http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png" group-title="Bangla" tvg-server="Server 1",Boishakhi TV
-http://103.229.254.25:7001/play/a067/index.m3u8
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" group-title="Movie" tvg-server="Server 1",BOLLYWOOD ACTION
 http://103.229.254.25:7001/play/a0es/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/btv-hd-bd.png" group-title="Bangla" tvg-server="Server 1",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/15/BTV_News_Logo.svg/1280px-BTV_News_Logo.svg.png" group-title="Bangla" tvg-server="Server 1",BTV News
 https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/d96eb7f4-83c2-4472-9597-3568390a8ebf/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",Cartoon Network 
-http://103.161.153.165:8000/play/cn/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/s157576_ld_h15_aa.png" group-title="Kids" tvg-server="Server 1",Cartoon Network
+http://premium2.ottpro2.org:80/live/franck3/3926751/24933.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/26942/logo/240x240/mobile_logo_443429001678950505.png" group-title="Kids" tvg-server="Server 1",Cartoon Network HD
-https://sm-monirul.top/Toffee/live.php?id=cartoon_network_hd&e=.m3u8
+http://198.195.239.50:8095/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-24-bd.png" group-title="Bangla" tvg-server="Server 1",Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png" group-title="Bangla" tvg-server="Server 1",Channel 9
-http://103.229.254.25:7001/play/a05j/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/channel-i-hd-bd.png" group-title="Bangla" tvg-server="Server 1",Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqrTkRG2_z_5KHfI_ur5-Ev5Q4kVl3zKmcAQ&s" group-title="Bangla" tvg-server="Server 1",Channel S HD
 http://103.229.254.25:7001/play/a060/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="English" tvg-server="Server 1",CNN 
-https://sm-monirul.top/Toffee/live.php?id=cnn&e=.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/s21Tc4dv/Colors-Bangla-Cinema-logo.png" group-title="Movie" tvg-server="Server 1",Colors Bangla Cinema
-http://103.180.212.191:3500/live/1657.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/333/logo/240x240/mobile_logo_146607001735536058.png" group-title="English" tvg-server="Server 1",CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Movie" tvg-server="Server 1",Colors Bangla Cinema
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1657
 #EXTINF:-1 tvg-id="ATN.Colors.Bangla.ca" tvg-name="New Channel" tvg-logo="https://i.postimg.cc/cL3LpQcH/Colors-Bangla-HD.png" group-title="Drama" tvg-server="Server 1",COLORS BANGLA HD
-http://103.180.212.191:3500/live/756.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6D8-FA7DEkTgzOvLKxKzhJTB67WHg8BFQYA&s" group-title="Indian" tvg-server="Server 1",COLORS CINEPLEX_HD
-http://103.161.153.165:8000/play/a05e/index.m3u8
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=756
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Indian" tvg-server="Server 1",COLORS CINEPLEX HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1477
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/Colors_TV_logo.svg" group-title="Indian" tvg-server="Server 1",COLORS HD
-https://airtel.rkdyiptv.workers.dev/live/415.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/7fcb8f31559758e13bc8538f828b5a2d.png" group-title="English" tvg-server="Server 1",COLORS INFINTY HD
-http://103.161.153.165:8000/play/a04e/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/2c5a73ac3f9772a9cb2d18df1b152545" group-title="Bangla" tvg-server="Server 1",DBC News
-http://103.229.254.25:7001/play/a06h/index.m3u8
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=144
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Infinity_HD.png" group-title="English" tvg-server="Server 1",COLORS INFINITY HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1158
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png" group-title="Bangla" tvg-server="Server 1",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/1728.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.seeklogo.com/logo-png/51/2/deepto-tv-logo-png_seeklogo-513994.png" group-title="Bangla" tvg-server="Server 1",Deepto TV
-http://stvlive.net:8080/deepto/index.m3u8
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://assets-prod.services.toffeelive.com/w_480%2Cq_75%2Cf_webp/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png" group-title="Bangla" tvg-server="Server 1",Desh TV
-https://sm-monirul.top/Toffee/live.php?id=desh_tv&e=.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/s2PWgBYF/Discovery-HD-2009.png" group-title="Documentary" tvg-server="Server 1",Discovery HD
-http://202.70.146.135:8000/play/a05z/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/eea190cf-6b00-4e1e-9914-1c4d14089a54/demvx2p-fb987389-4f0c-4ffd-aa17-0e8e3b9b4df6.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9lZWExOTBjZi02YjAwLTRlMWUtOTkxNC0xYzRkMTQwODlhNTQvZGVtdngycC1mYjk4NzM4OS00ZjBjLTRmZmQtYWExNy0wZThlM2I5YjRkZjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Wg2dmR8v9ktu11gKURUZ2pHmi8fHjq-U8U30zOrKfwA" group-title="Kids" tvg-server="Server 1",DISCOVERY KIDS 
-http://103.161.153.165:8000/play/a05p/index.m3u8
+http://103.229.254.25:7001/play/a05s/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11150_dark_360w_270h.png" group-title="Documentary" tvg-server="Server 1",Discovery HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=573
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/611/logo/240x240/mobile_logo_430542001673177743.png" group-title="Kids" tvg-server="Server 1",Discovery Kids
+http://chasintv.vip:80/Robert/123456/694197
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://d388d59m61mm0v.cloudfront.net/optimized/content/common/logos/channel/logos/poifwx.png" group-title="Documentary" tvg-server="Server 1",Discovery Science
-https://sm-monirul.top/Toffee/live.php?id=discovery_science&e=.m3u8
+http://103.180.212.191:3500/live/568.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Kids" tvg-server="Server 1",Disney Channel
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63578
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/51f1530c076c027e431bf18a49613f0b" group-title="Bangla" tvg-server="Server 1",Duronto TV
-http://103.229.254.25:7001/play/a05k/index.m3u8
+http://premium2.ottpro2.org:80/live/franck3/3926751/339499.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18279_dark_360w_270h.png" group-title="Kids" tvg-server="Server 1",Disney XD
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Bangla" tvg-server="Server 1",Duronto TV
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/duronto.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqjyyFzi26mxd7qovXI6qge1TX2IR4Tr_dSQ&s" group-title="Bangla" tvg-server="Server 1",Ekattor TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/SNnz9nWH/Ekhon-Logo.png" group-title="Bangla" tvg-server="Server 1",Ekhon TV
-http://103.161.153.165:8000/play/a030/index.m3u8
+http://103.229.254.25:7001/play/a09k/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d9/Ekushey_Television_Logo.svg" group-title="Bangla" tvg-server="Server 1",Ekushey TV
-http://103.229.254.25:7001/play/a05x/index.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ENTERR10_BANGLA/images/LOGO_HD/image.png" group-title="Indian" tvg-server="Server 1",ENTER 10 BANGLA
-http://103.161.153.165:8000/play/a01c/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt84IRebeWZo3slRj-u_08P6fRugyijutGbQ&s" group-title="Sports" tvg-server="Server 1",ESPN Premium
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://i.tvcluboficial.com/espn.png" group-title="Sports" tvg-server="Server 1",Espn
+http://premium2.ottpro2.org:80/live/franck3/3926751/239460.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://i.tvcluboficial.com/espnpremium.png" group-title="Sports" tvg-server="Server 1",ESPN Premium
 http://46.225.94.157/hls/espn/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://nettv4u.com/uploads/18-10-2021/etvbangla.png" group-title="Indian" tvg-server="Server 1",ETV CINEMA HD
-http://103.161.153.165:8000/play/a00l/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/NMgSxc0P/1000113679.png" group-title="Sports" tvg-server="Server 1",EUROSPORT HD
-http://103.229.254.25:7001/play/a03b/index.m3u8
+http://103.180.212.191:3500/live/875.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" group-title="Sports" tvg-server="Server 1",FIFA+
 https://37b4c228.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWZyX0ZJRkFQbHVzRnJlbmNoX0hMUw/playlist.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b2a8e94a-b991-4ba6-8f3c-a58101734bcb/dhxgted-825511be-1ad9-49fd-b940-fbaaec6631be.png/v1/fill/w_1194%2Ch_669/what_if__fox_animation_studios__2019_2020___by_kingof2010_dhxgted-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NzE4IiwicGF0aCI6Ii9mL2IyYThlOTRhLWI5OTEtNGJhNi04ZjNjLWE1ODEwMTczNGJjYi9kaHhndGVkLTgyNTUxMWJlLTFhZDktNDlmZC1iOTQwLWZiYWFlYzY2MzFiZS5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.ATQU7-8T0JBQKxA2zlpnQtIrXJFG2dQ69I1FOCjyU-s" group-title="Kids" tvg-server="Server 1",FOX ANIMATION HD
-http://103.161.153.165:8000/play/a041/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Sports" tvg-server="Server 1",FOX Sports
-http://y3fqd48g.megatv.fun/iptv/NRLXRWSBWBPLN4/19138/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/04d612228fedede6da010e5b163d5ac6" group-title="Sports" tvg-server="Server 1",Fox Sports 1
-http://sm-monirul.top/AyNa/play.php?id=719f4fb9-cc8b-496e-8bf3-a1e5648e2cdb&e=.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/fox.png" group-title="Sports" tvg-server="Server 1",FOX CRIC 501 ᴴᴰ
+http://chasintv.vip:80/Robert/123456/152324
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://i.tvcluboficial.com/fs1.png" group-title="Sports" tvg-server="Server 1",Fox Sports 1
+http://chasintv.vip:80/Robert/123456/915
+#EXTINF:-1 tvg-name="New Channel" group-title="Bangla" tvg-server="Server 1",G-Serise
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/gtv-hd-bd.png" group-title="Bangla" tvg-server="Server 1",Gazi TV
-https://mflixott.com/tv/plusbox/live/GaziTVHD/index.m3u8
+http://198.195.239.50:8095/bdixbd.net_gazitvhd/video.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.globaltvbd.com/uploads/logo/Logo-Global-Television.png" group-title="Bangla" tvg-server="Server 1",Global TV
-http://103.229.254.25:7001/play/a05o/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",GOLDMINES 
+http://116.204.149.16/globaltv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",GOLDMINES
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="Movie" tvg-server="Server 1",Goldmines Movies
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png" group-title="Bangla" tvg-server="Server 1",Green Tv HD
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_2_Logo_Poland.png" group-title="English" tvg-server="Server 1",HBO 2
 http://23.88.66.93/HBO_2/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-server="Server 1",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/History_Logo.svg" group-title="Documentary" tvg-server="Server 1",History TV18 HD
-http://103.161.153.165:8000/play/a020/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://crystalpng.com/wp-content/uploads/2025/04/hum-logo.png" group-title="Pakistan" tvg-server="Server 1",HUM
-https://sm-monirul.top/Toffee/live.php?id=hum_tv&e=.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/303947/logo/240x240/mobile_logo_203789001738235600.png" group-title="Pakistan" tvg-server="Server 1",Hum Masala
-https://sm-monirul.top/Toffee/live.php?id=hum_masala&e=.m3u8
+http://websafety101.net:5050/stone149@gmail.com/AuMesPyCFC/417998
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png" group-title="Pakistan" tvg-server="Server 1",HUM
+https://datahub11.com:443/live/Jen12345/Jen54321/49584.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://yt3.ggpht.com/a/AATXAJxoVpGct1foR5mXifBQfUwKDEOfGFQESSBYEHg5=s900-c-k-c0xffffffff-no-rj-mo" group-title="Pakistan" tvg-server="Server 1",Hum Masala
+https://datahub11.com:443/live/Jen12345/Jen54321/36927.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/303948/logo/240x240/mobile_logo_350939001738236112.png" group-title="Pakistan" tvg-server="Server 1",Hum Sitarey
-https://sm-monirul.top/Toffee/live.php?id=hum_sitaray&e=.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/20460.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/independent-bd.png" group-title="Bangla" tvg-server="Server 1",Independent TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/18094/logo/240x240/mobile_logo_154805001673178308.png" group-title="Documentary" tvg-server="Server 1",Investigation Discovery HD
-https://sm-monirul.top/Toffee/live.php?id=discovary_investigation_hd&e=.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://cd-static.telenorcdn.net/cdepg/img/ngp/logo/300/20014-2.png" group-title="Documentary" tvg-server="Server 1",Investigation Discovery HD
+http://chasintv.vip:80/Robert/123456/283
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/90/Islamic_TV_New_Logo.png" group-title="Bangla" tvg-server="Server 1",Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/jalsha-movies-hd-in.png" group-title="Movie" tvg-server="Server 1",JALSHA MOVIES HD
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/425.ts
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/jamuna-tv-bd.png" group-title="Bangla" tvg-server="Server 1",Jamuna TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgPKgdFPy1P4N7sPwb-UKQqP_CI1AClAdFpg&s" group-title="Movie" tvg-server="Server 1",MAA MOVIES HD
-http://103.161.153.165:8000/play/mamvh/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports" tvg-server="Server 1",Jio Sports HD
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=889
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png" group-title="Bangla" tvg-server="Server 1",Maasranga TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_s1QIH4x4Ru0DufX_CNlWhPvPU3o91ZcA9w&s" group-title="Bangla" tvg-server="Server 1",Madani TV
-http://103.229.254.25:7001/play/a05p/index.m3u8
+http://chasintv.vip:80/Robert/123456/694006
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/73082846fdc15d9f0e7268b104c55d92" group-title="Bangla" tvg-server="Server 1",Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
+http://sm-monirul.top/AyNa/play.php?id=6662e038-604e-4cdc-87f7-8ec1cdf77a5e&e=.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MOVIES_NOW/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",MOVIES NOW HD
-http://103.161.153.165:8000/play/mnh/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/152387.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.imgur.com/bahWhBG.png" group-title="Bangla" tvg-server="Server 1",MyTV
-http://103.229.254.25:7001/play/a05z/index.m3u8
+http://116.204.149.16/mytv/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/nagorik-bd.png" group-title="Bangla" tvg-server="Server 1",Nagorik TV
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://logos-world.net/wp-content/uploads/2020/09/National-Geographic-Logo.png" group-title="Documentary" tvg-server="Server 1",NAT GEO HD Bangla
+http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/7343.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/4xd2tg8K/1000111033.png" group-title="Documentary" tvg-server="Server 1",National Geographic
-http://103.161.153.165:8000/play/a04j/index.m3u8
+http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.bashundharagroup.com/assets/upload/wallpaper/wallpaper_1525683191.png" group-title="Bangla" tvg-server="Server 1",News 24 BD
-http://103.161.153.165:8000/play/a02w/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png" group-title="Bangla" tvg-server="Server 1",NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/nick-in.png" group-title="Kids" tvg-server="Server 1",Nick 
-http://103.180.212.191:3500/live/1341.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids" tvg-server="Server 1",Nick
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1341
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/1200px-NTV_%28Bangladesh%29_logo.svg.png" group-title="Bangla" tvg-server="Server 1",NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Oggy_and_the_Cockroaches_Logo.webp" group-title="Kids" tvg-server="Server 1",Oggy
 https://tplay.live/playlist/kids/oggy-and-the-cockroaches/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.ibb.co/Gfw89mC/20240804-033102.png" group-title="Bangla" tvg-server="Server 1",PEACE TV BANGLA
-https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUmcio2ge9BktA
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/POGO-logo.svg/1280px-POGO-logo.svg.png" group-title="Kids" tvg-server="Server 1",POGO
-https://sm-monirul.top/Toffee/live.php?id=pogo_sd&e=.m3u8
-#EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports" tvg-server="Server 1",PTV Sports
+http://premium2.ottpro2.org:80/live/franck3/3926751/339730.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.ibb.co/598TYnC/20240827-092020.png" group-title="English" tvg-server="Server 1",Peace TV English
+http://premium2.ottpro2.org:80/live/franck3/3926751/446253.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids" tvg-server="Server 1",POGO
+http://chasintv.vip:80/Robert/123456/694134
+#EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="New Channel" tvg-logo="http://greenpa1.com/ptvsporthd.png" group-title="Sports" tvg-server="Server 1",PTV Sports
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://rajdhani.tv/storage/app/image/1665000837logo.png" group-title="Bangla" tvg-server="Server 1",RAJDANI Tv
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.ibb.co/VYLZD4nP/Real-Madrid-TV-Now-On-Tula-Watch.jpg" group-title="Sports" tvg-server="Server 1",Real Madrid tv Football
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://s3.aynaott.com/storage/094587a26f2c5e4f2962104728ec8c5d" group-title="Bangla" tvg-server="Server 1",RTV
-http://103.229.254.25:7001/play/a068/index.m3u8
+http://116.204.149.16/rtvhd/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" group-title="Indian" tvg-server="Server 1",Sananda Tv
+http://115.187.41.216:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sangeet%20Bangla.jpeg" group-title="Indian" tvg-server="Server 1",Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/Sangsad_Television_Emblem.svg" group-title="Bangla" tvg-server="Server 1",Sangsad Bangladesh
-https://www.btvlive.gov.bd/live/37f2df30-3edf-42f3-a2ee-6185002c841c/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRanrIknre_D1HDFv0taO68KjUT6zSeqeSPvA&s" group-title="Movie" tvg-server="Server 1",SANONDAA CINEMA HD
-http://103.161.153.165:8000/play/a03a/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png" group-title="Bangla" tvg-server="Server 1",SATV
-http://103.229.254.25:7001/play/a062/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGA9ND-MGrzIXSPfKuWG5H5Vnq1layowvXDQ&s" group-title="Sports" tvg-server="Server 1",Sky Sports Cricket
-http://premimum.online:80/live/jen12345/jen54321/23566.ts
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Sky-sports-football.jpg" group-title="Sports" tvg-server="Server 1",Sky Sports Football
-https://premimum.online:443/live/Jen12345/Jen54321/23334.ts
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/1720.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" tvg-server="Server 1",SKY SPORT 3
+https://datahub11.com:443/live/Jen12345/Jen54321/24018.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportscricket_uk.png" group-title="Sports" tvg-server="Server 1",Sky Sports Cricket
+http://premium2.ottpro2.org:80/live/franck3/3926751/215915.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/skysportsfootball_uk.png" group-title="Sports" tvg-server="Server 1",Sky Sports Football
+http://premium2.ottpro2.org:80/live/franck3/3926751/215917.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/Bangladesh/somoy-bd.png" group-title="Bangla" tvg-server="Server 1",Somoy TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/nickelodeon-sonic-in.png" group-title="Kids" tvg-server="Server 1",SONIC
-http://103.180.212.191:3500/live/1345.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids" tvg-server="Server 1",SONIC
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1345
 #EXTINF:-1 tvg-id="SonyAath.in@SD" tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png" group-title="Indian" tvg-server="Server 1",Sony AATH
-http://103.161.153.165:8000/play/sonyatth/index.m3u8
+http://premium2.ottpro2.org:80/live/franck3/3926751/339389.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg" group-title="Documentary" tvg-server="Server 1",SONY BBC EARTH
+http://maxotts.maxdigitaltv.com/x-media/C59/master.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-entertainment-television-hd-in.png" group-title="Indian" tvg-server="Server 1",Sony Entertainment Television
-http://103.161.153.165:8000/play/a01i/index.m3u8
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Logo_of_Sony_Max_1.jpg/500px-Logo_of_Sony_Max_1.jpg" group-title="Indian" tvg-server="Server 1",SONY MAX 1
 http://103.180.212.191:3500/live/3418.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Indian" tvg-server="Server 1",SONY MAX 2 
-https://sm-monirul.top/Toffee/live.php?id=sonymax_2&e=.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/353/logo/240x240/mobile_logo_044841001666779831.png" group-title="Indian" tvg-server="Server 1",SONY MAX 2
+http://chasintv.vip:80/Robert/123456/694108
 #EXTINF:-1 tvg-id="SonyMax.in@HD" tvg-name="New Channel" tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" group-title="Indian" tvg-server="Server 1",SONY MAX HD
-http://103.161.153.165:8000/play/a01k/index.m3u8
+http://198.195.239.50:8095/SonyMAX/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://ottcasomsapi.maxdigitaltv.com/uploads/channels/channel_106_1737270778_thumb.png" tvg-server="Server 1",SONY PAL
+https://datahub11.com:443/live/Jen12345/Jen54321/6627.ts
 #EXTINF:-1 tvg-id="SonyPix.in@HD" tvg-name="New Channel" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="Indian" tvg-server="Server 1",SONY PIX HD
-http://103.229.254.25:7001/play/a0ed/index.m3u8
+http://chasintv.vip:80/Robert/123456/694105
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/SONY_SAB_SD_Logo_2022.png/1280px-SONY_SAB_SD_Logo_2022.png" group-title="Indian" tvg-server="Server 1",SONY SAB_HD
-http://103.229.254.25:7001/play/a0db/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-1-hd-in.png" group-title="Sports" tvg-server="Server 1",SONY TEN 1 HD
-http://103.161.153.165:8000/play/sonyten1/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/98853.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/sonyten1.png" group-title="Sports" tvg-server="Server 1",SONY TEN 1 HD
+http://premium2.ottpro2.org:80/live/franck3/3926751/339495.ts
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-2-hd-in.png" group-title="Sports" tvg-server="Server 1",SONY TEN 2 HD
-http://103.161.153.165:8000/play/sonyt2hd/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/172-s.webp" group-title="Sports" tvg-server="Server 1",SONY TEN 3 HD
-http://103.161.153.165:8000/play/a01n/index.m3u8
+http://premium2.ottpro2.org:80/live/franck3/3926751/339494.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="Sports" tvg-server="Server 1",SONY TEN 3 HD
+http://line.nspivot.com:80/live/C01D92/60CA8D/63535.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-ten-5-hd-in.png" group-title="Sports" tvg-server="Server 1",SONY TEN 5 HD
-http://103.161.153.165:8000/play/snt5/index.m3u8
+http://103.157.248.140:8000/play/a05x/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png" group-title="Indian" tvg-server="Server 1",Sony Wah
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1393
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids" tvg-server="Server 1",SONY YAY
+http://chasintv.vip:80/Robert/123456/694102
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://asset.bioscopelive.com/uploads/images/2025/08/11/thumbnails_58ebcef1efcc65837557de15952d2643_goplay_srk_tv_landscape.jpg" group-title="Drama" tvg-server="Server 1",SRK TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvZOUSFg1XCPiya4aE7OCds_9C9hvIl-NmwA&s" group-title="Indian" tvg-server="Server 1",STAR BANGLA
 http://103.229.254.25:7001/play/a0eo/index.m3u8
-#EXTINF:-1 tvg-id="StarBharat.in@SD" tvg-name="New Channel" tvg-logo="https://i.imgur.com/Q8ajPij.png" group-title="Indian" tvg-server="Server 1",STAR BHARAT HD
-http://103.161.153.165:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-id="StarGold2.in@SD" tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Star_Gold_2.svg" group-title="Indian" tvg-server="Server 1",Star Gold 2 HD
-http://103.229.254.25:7001/play/a0d0/index.m3u8
-#EXTINF:-1 tvg-id="StarGold.in@HD" tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-gold-hd-in.png" group-title="Indian" tvg-server="Server 1",Star Gold HD
-http://103.229.254.25:7001/play/a0dd/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/157081.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/stargold_uk.png" group-title="Indian" tvg-server="Server 1",STAR GOLD HD
+https://datahub11.com:443/live/Jen12345/Jen54321/98858.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.imgur.com/gSWv9U3.png" group-title="Indian" tvg-server="Server 1",Star Gold Romance
-http://103.229.254.25:7001/play/a0ck/index.m3u8
+http://58.147.140.106:4000/play/a0gf/index.m3u8
 #EXTINF:-1 tvg-id="StarGoldSelect.in@HD" tvg-name="New Channel" tvg-logo="https://i.imgur.com/U7eiuqv.png" group-title="Indian" tvg-server="Server 1",Star Gold Select HD
-http://103.229.254.25:7001/play/a032/index.m3u8
+http://premium2.ottpro2.org:80/live/franck3/3926751/339377.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/star-jalsha-hd-in.png" group-title="Indian" tvg-server="Server 1",Star Jalsha HD
-http://103.161.153.165:8000/play/starjal/index.m3u8
+http://103.229.254.25:7001/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="StarMovies.in@HD" tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",STAR MOVIES HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-name="New Channel" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_STAR_MOVIES_SELECT_HD/images/LOGO_HD/image.png" group-title="Movie" tvg-server="Server 1",Star Movies Select HD
-http://103.161.153.165:8000/play/strmshd/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/218.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNYXbr0RNs-Nj_kAaimUwXFBWtn-eHAgbOUQ&s" group-title="Bangla" tvg-server="Server 1",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1701.m3u8
 #EXTINF:-1 tvg-id="StarPlus.in@SD" tvg-name="New Channel" tvg-logo="https://i.imgur.com/xWxNy3L.png" group-title="Indian" tvg-server="Server 1",Star Plus HD
-http://103.229.254.25:7001/play/a09z/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="New Channel" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports" tvg-server="Server 1",Star Sports 1 HD
+http://198.195.239.50:8095/StarPlus/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="New Channel" tvg-logo="http://greenpa1.com/starsports1.png" group-title="Sports" tvg-server="Server 1",Star Sports 1 HD
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="New Channel" group-title="Sports" tvg-server="Server 1",Star Sports 1 Hindi
-http://202.70.146.135:8000/play/a01e/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/yNvbVTHy/20250702_032050.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2 HD
-http://103.175.242.10:8080/starsports2/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiFDmfGWRRhNvctt0StKUFKyPkGj7zR_EEDg&s" group-title="Sports" tvg-server="Server 1",STAR SPORTS HINDI 2 HD
-http://103.180.212.191:3500/live/1984.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/ssh1.png" group-title="Sports" tvg-server="Server 1",Star Sports 1 Hindi
+https://datahub11.com:443/live/Jen12345/Jen54321/211.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/starsports2.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2 HD
+https://datahub11.com:443/live/Jen12345/Jen54321/239.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/ssh2.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS 2 HINDI HD
+http://103.157.248.140:8000/play/a01m/index.m3u8
+#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-name="New Channel" tvg-logo="http://greenpa1.com/ss3.png" group-title="Sports" tvg-server="Server 1",Star Sports 3
+http://premium2.ottpro2.org:80/live/franck3/3926751/339490.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/QxPmM3ZC/Star-sports-select-1-hd.png" group-title="Sports" tvg-server="Server 1",Star Sports Select 1 HD
-http://103.161.153.165:8000/play/starspsl1hd/index.m3u8
+http://198.195.239.50:8095/StarSportsSelect1/index.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://i.postimg.cc/5tZW5GCp/Star-sports-select-2-hd.png" group-title="Sports" tvg-server="Server 1",STAR SPORTS SELECT 2 HD
-http://103.161.153.165:8000/play/starspsel2/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7ukrnt8yFGkPlu8FfMul4sVvukwoz5NutmQ&s" group-title="Indian" tvg-server="Server 1",SUN BANGLA HD
-http://103.161.153.165:8000/play/a03k/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1YpBnvOsuOh0O-Wu_vxbA3I_YXhrOkOIFUw&s" group-title="Sports" tvg-server="Server 1",Super Sport Cricket
+http://198.195.239.50:8095/StarSportsSelect2/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Indian" tvg-server="Server 1",Sun Bangla
+https://jioplaylist.joinus-apiworker.workers.dev/live.m3u8?id=1669
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://greenpa1.com/ssc.png" group-title="Sports" tvg-server="Server 1",Super Sport Cricket
 http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/158442.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.tsports.com.bd/assets/upload/cover/cover_1606127688.jpg" group-title="Bangla" tvg-server="Server 1",T Sports HD
-http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://images.toffeelive.com/images/program/301891/logo/240x240/mobile_logo_578686001735197654.png" group-title="Sports" tvg-server="Server 1",Ten Cricket
-https://sm-monirul.top/Toffee/live.php?id=ten_cricket&e=.m3u8
+http://198.195.239.50:8095/Tsports/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://ethnicchannels.com/images/channeldetail/ten-cricket/ten-ckt-logo.png" group-title="Sports" tvg-server="Server 1",Ten Cricket
+https://ottbanglaplatform.com/tv/toffee/live.php?id=ten_cricket&e=.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://iconape.com/wp-content/files/da/323865/png/323865.png" group-title="Sports" tvg-server="Server 1",Ten Sports
-http://Rochdi@starshare.net:80/live/Suryaaa/SURYAAAA/98.ts
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="Bangla" tvg-server="Server 1",Time Televison 
-https://app.ncare.live/live-orgin/timetvusa.stream/playlist.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/98.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://www.jagobd.com/wp-content/uploads/2016/02/timetv.jpg?x67896" group-title="Bangla" tvg-server="Server 1",Time Televison
+https://cdn.streamcast.xyz/timetv/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TLC-HD-Logo_2016.svg/1280px-TLC-HD-Logo_2016.svg.png" group-title="Documentary" tvg-server="Server 1",TLC
+https://datahub11.com:443/live/Jen12345/Jen54321/9388.ts
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/TNTSPORTS1.png" group-title="Sports" tvg-server="Server 1",TNT Sports 1
+https://airtel.rkdyiptv.workers.dev/live/312.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4t4fCjANSMhU6BEXJXCCU9okhkGUWm9B-Pg&s" group-title="Kids" tvg-server="Server 1",Tom & Jarry
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="http://LOGO-iptvpro.com/LOGO/SKYUK/travelxp_uk.png" group-title="Indian" tvg-server="Server 1",TRAVEL XP
+http://premium2.ottpro2.org:80/live/franck3/3926751/339325.ts
 #EXTINF:-1 tvg-name="New Channel" group-title="Bangla" tvg-server="Server 1",WAZ TV 🎯 📡
 https://tplay.live/originals/ilm-tv/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",Willow Sports
-http://103.161.153.165:8000/play/willowcrichd/index.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://provider-static.plex.tv/epg/cms/production/acf3d1d8-c53e-49ca-86e9-0d9410b106b4/Willow_Sports_dark_Background_1500_1000_color.png" group-title="Sports" tvg-server="Server 1",Willow
+http://premium2.ottpro2.org:80/live/franck3/3926751/339487.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png" group-title="Indian" tvg-server="Server 1",YRF Music HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",ZEE Bangla
-https://sm-monirul.top/Toffee/live.php?id=zee_bangla&e=.m3u8
+#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/zee-bangla-hd-in.png" group-title="Indian" tvg-server="Server 1",ZEE Bangla HD
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Zee_Caf%C3%A9_2025.svg/1280px-Zee_Caf%C3%A9_2025.svg.png" group-title="Indian" tvg-server="Server 1",Zee Cafe HD
-http://103.229.254.25:7001/play/a0cx/index.m3u8
+https://datahub11.com:443/live/Jen12345/Jen54321/98848.ts
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Zee_Cinema_2025.svg/1280px-Zee_Cinema_2025.svg.png" group-title="Movie" tvg-server="Server 1",ZEE CINEMA HD
-https://sm-monirul.top/Toffee/live.php?id=zee_cinema_hd&e=.m3u8
+http://chasintv.vip:80/Robert/123456/694079
 #EXTINF:-1 tvg-name="New Channel" tvg-logo="https://1000logos.net/wp-content/uploads/2025/05/Zee-TV-Logo.png" group-title="Indian" tvg-server="Server 1",ZEE TV HD
-http://103.161.153.165:8000/play/a01j/index.m3u8
-#EXTINF:-1 tvg-name="New Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/ZooMoo-Kids-Logo-Oficial-01.png" group-title="Kids" tvg-server="Server 1",Zoo Moo
-https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+http://198.195.239.50:8095/ZeeTV/index.m3u8
